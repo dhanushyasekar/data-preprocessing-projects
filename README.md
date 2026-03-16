@@ -2,7 +2,7 @@
 
 This repository contains data preprocessing projects using Python and Pandas.
 
-## Project 1: Students Social Media Addiction Data Preprocessing
+## Students Social Media Addiction Data Preprocessing
 
 ### Dataset
 Students Social Media Addiction Dataset
